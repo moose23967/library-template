@@ -1,5 +1,5 @@
 {
-  "name": "library-template",
+  "name": "@moose23967/library-template",
   "module": "src/index.ts",
   "type": "module",
   "devDependencies": {
