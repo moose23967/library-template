@@ -1,6 +1,6 @@
 {
   "name": "@moose23967/library-template",
-  "module": "src/index.ts",
+  "module": "sources/index.ts",
   "type": "module",
   "devDependencies": {
     "@biomejs/biome": "^1.9.1",
